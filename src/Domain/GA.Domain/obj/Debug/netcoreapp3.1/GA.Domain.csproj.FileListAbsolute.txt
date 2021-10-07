@@ -1,8 +1,0 @@
-C:\Labs\gerenciador-de-arquivo\src\Domain\GA.Domain\bin\Debug\netcoreapp3.1\GA.Domain.deps.json
-C:\Labs\gerenciador-de-arquivo\src\Domain\GA.Domain\bin\Debug\netcoreapp3.1\GA.Domain.dll
-C:\Labs\gerenciador-de-arquivo\src\Domain\GA.Domain\bin\Debug\netcoreapp3.1\GA.Domain.pdb
-C:\Labs\gerenciador-de-arquivo\src\Domain\GA.Domain\obj\Debug\netcoreapp3.1\GA.Domain.AssemblyInfoInputs.cache
-C:\Labs\gerenciador-de-arquivo\src\Domain\GA.Domain\obj\Debug\netcoreapp3.1\GA.Domain.AssemblyInfo.cs
-C:\Labs\gerenciador-de-arquivo\src\Domain\GA.Domain\obj\Debug\netcoreapp3.1\GA.Domain.csproj.CoreCompileInputs.cache
-C:\Labs\gerenciador-de-arquivo\src\Domain\GA.Domain\obj\Debug\netcoreapp3.1\GA.Domain.dll
-C:\Labs\gerenciador-de-arquivo\src\Domain\GA.Domain\obj\Debug\netcoreapp3.1\GA.Domain.pdb
